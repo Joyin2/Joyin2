@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### I'm Joyin, working as a fullstack developer
-### B.tech 2023
+### B.tech || CSE || 2023
 [![@joyin2's Holopin board](https://holopin.me/joyin2)](https://holopin.io/@joyin2)
 
 <!--
