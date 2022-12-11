@@ -1,6 +1,7 @@
 ### Hi there 👋
 ### I'm Joyin, working as a fullstack developer (MERN stack)
 ### B.tech || CSE || 2023
+### Github Global Campus Expert 2022
 [![@joyin2's Holopin board](https://holopin.me/joyin2)](https://holopin.io/@joyin2)
 
 <!--
