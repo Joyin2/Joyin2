@@ -1,6 +1,6 @@
 ### Hi there 👋
-### I'm Joyin, currently working as a fullstack developer (MERN stack)
-### Freelancer
+### I'm Joyin
+### Freelancer Website Developer
 ### YouTuber
 ### Technical Writer
 ### B.tech || CSE || 2023
