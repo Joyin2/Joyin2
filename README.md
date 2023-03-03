@@ -1,8 +1,6 @@
 ### Hi there 👋
 ### I'm Joyin
-### Freelancer Website Developer
-### YouTuber
-### Technical Writer
+### Freelancer Website Developer || YouTuber || Technical Writer
 ### B.tech || CSE || 2023
 ### Github Global Campus Expert 2022
 ### Hacktoberfest 2022
