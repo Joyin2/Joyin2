@@ -1,6 +1,8 @@
 ### Hi there 👋
 ### I'm Joyin, currently working as a fullstack developer (MERN stack)
 ### Freelancer
+### YouTuber
+### Technical Writer
 ### B.tech || CSE || 2023
 ### Github Global Campus Expert 2022
 ### Hacktoberfest 2022
